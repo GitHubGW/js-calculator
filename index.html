@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Calculator</title>
+  </head>
+  <body>
+    <h1>📱 Calculator</h1>
+    <div class="js-calculator">
+      <div class="section section-progress">
+        <div class="input-section">
+          <input class="input-progress" type="text" value="" />
+          <input class="input-result" type="text" value="0" />
+        </div>
+        <button class="js-reset">AC</button>
+      </div>
+      <div class="section">
+        <button class="js-number">7</button>
+        <button class="js-number">8</button>
+        <button class="js-number">9</button>
+        <button class="js-operation">+</button>
+      </div>
+      <div class="section">
+        <button class="js-number">4</button>
+        <button class="js-number">5</button>
+        <button class="js-number">6</button>
+        <button class="js-operation">-</button>
+      </div>
+      <div class="section">
+        <button class="js-number">1</button>
+        <button class="js-number">2</button>
+        <button class="js-number">3</button>
+        <button class="js-operation">*</button>
+      </div>
+      <div class="section">
+        <button class="js-number zero">0</button>
+        <button class="js-equal">=</button>
+        <button class="js-operation divide">/</button>
+      </div>
+      <div class="section-hide">
+        current<input type="text" class="current" /><br />
+        firstNum<input type="text" class="firstNum" /><br />
+        calculate<input type="text" class="calculate" /><br />
+        secondNum<input type="text" class="secondNum" /><br />
+        input<input type="text" class="input" /><br />
+      </div>
+    </div>
+
+    <script src="calculator.js"></script>
+  </body>
+</html>
