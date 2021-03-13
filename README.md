@@ -1,19 +1,22 @@
 # Calculator-Clone
 
-## Technologies
+## 🔗 Demo
+https://githubgw.github.io/Calculator-Clone
+
+## 🔥 Technologies
 * HTML5 <br>
 * CSS3 <br>
 * Vanilla JS
 
-## Goals
-* Practice Vanilla JS <br>
-* Understanding Calculator <br>
-* Cloning Calculator
+## 🌈 Goals
+- [x] Practice Vanilla JS <br>
+- [x] Understanding Calculator <br>
+- [x] Cloning Calculator
 
-## Features
-* Addition <br>
-* Subtraction <br>
-* Multiplication <br>
-* Division <br>
-* All Clear <br>
-* Equal
+## ✨ Features
+- [x] Addition <br>
+- [x] Subtraction <br>
+- [x] Multiplication <br>
+- [x] Division <br>
+- [x] All Clear <br>
+- [x] Equal
