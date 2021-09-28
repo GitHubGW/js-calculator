@@ -1,7 +1,7 @@
 # Calculator-Clone
 
 ## 🔗 Demo
-https://githubgw.github.io/Calculator-Clone
+https://githubgw.github.io/js-calculator
 
 ## 🖥 Preview
 <img src="preview.png">
