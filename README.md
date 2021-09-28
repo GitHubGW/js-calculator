@@ -1,4 +1,4 @@
-# Calculator-Clone
+# Calculator
 
 ## 🔗 Demo
 https://githubgw.github.io/js-calculator
